@@ -1,0 +1,51 @@
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\User\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+I:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+E:\ELIAS\ELIAS\ETEC\2° MODULO\DS\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+E:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+J:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+J:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+J:\Backup - Slackbot\root\TECNICO\DS\ProjetoCadastro-update\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
